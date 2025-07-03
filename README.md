@@ -1,1 +1,1 @@
-# Credit-scoring-model-
+A credit scoring model in machine learning is used by financial institutions to predict the creditworthiness of an individual or business. The goal is to determine the likelihood that a borrower will default on a loan or credit obligation. Machine learning (ML) helps improve the accuracy, efficiency, and fairness of this prediction compared to traditional rule-based systems.# Credit-scoring-model-
